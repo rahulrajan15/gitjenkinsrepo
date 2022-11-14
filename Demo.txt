@@ -1,2 +1,0 @@
-echo "This the sample code for Demo Project"
-pause;
